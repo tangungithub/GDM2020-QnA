@@ -1,5 +1,7 @@
 # GitHub in DevOps Meetup 2020 Q&A
 
+<img src="https://user-images.githubusercontent.com/32116431/97534161-db803e80-19fc-11eb-9b92-30a1fe2110b5.jpg" width="600" height="350">
+
 11월 24일 진행되는 GitHub in DevOps Meetup 2020 온라인 행사의 Q&A 는 [Issue](https://github.com/tangungithub/GDM2020-QnA/issues) 페이지에서 입력하실 수 있습니다.
 
 ### 참여 방법
